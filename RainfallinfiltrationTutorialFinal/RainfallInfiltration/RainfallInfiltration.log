@@ -1,0 +1,41 @@
+WARNING The number of threads is set to 12
+WARNING The number of threads is set to 12
+_ Loading mesh...
+OK Nodes read 37175
+OK Cells read 73946
+OK Mesh loaded
+_ Found 402 boundary walls in mesh topology
+
+_ Node 73 has open boundary ID -1, but is not assigned to boundary wall with node 74
+OK Found 7 outlet boundary walls with label 1
+_ There are no inlets defined
+_ Found 1 outlets
+OK Outlet boundary conditions ready
+OK Boundaries ready
+_ Loading RiverFlow2D setup...
+_ No solutes/wqm in setup
+_ No culverts in setup
+_ No bridge piers in setup
+OK Local rain/evaporation file read
+OK Local infiltration file read
+_ No sediments in setup
+_ No mud properties in setup
+_ No sources/sinks in setup
+_ No weirs in setup
+_ No rills in setup
+_ No dambreach in setup
+_ No rating tables in setup
+_ No gates in setup
+_ No observation points in setup
+_ No profiles in setup
+OK Cross section data read
+_ No bridges in setup
+_ No wind in setup
+_ No variable manning in setup
+OK RiverFlow2D setup loaded
+_ Preparing simulation parameters...
+OK Dry initial conditions set
+OK Cross sections ready
+OK Simulation setup ready
+_ Simulation completed
+_ Elapsed time (HH:MM:SS): 00:04:57

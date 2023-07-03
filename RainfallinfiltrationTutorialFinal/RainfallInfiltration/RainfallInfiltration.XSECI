@@ -1,0 +1,288 @@
+
+
+=====================================================================================
+=====================================================================================
+                           RiverFlow2D
+                           Build Mar  9 2023
+=====================================================================================
+             TWO-DIMENSIONAL FINITE VOLUME RIVER DYNAMICS MODEL
+             		(R) TRADEMARK 2009-2022 Hydronia, LLC.
+                   			ALL RIGHTS RESERVED
+                   			RUN DATE: 30/Jun/2023
+=====================================================================================
+
+ CROSS SECTION RESULTS IN SI UNITS
+
+ TIME: 0000 days, 00 hours, 00 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.00    569.35      0.00      0.00  0.000000
+  4693      0.23    569.35      0.00    569.35      0.00      0.00  0.000000
+ 48637      6.00    569.40      0.00    569.40      0.00      0.00  0.000000
+ Q =     -0.000 m3/s.
+
+ TIME: 0000 days, 00 hours, 06 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.00    569.35      0.00      0.00  0.000000
+  4693      0.23    569.35      0.00    569.35      0.00      0.00  0.000000
+ 48637      6.00    569.40      0.00    569.40      0.00      0.00  0.000000
+ Q =     -0.000 m3/s.
+
+ TIME: 0000 days, 00 hours, 12 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.00    569.35      0.00      0.00  0.000000
+  4693      0.23    569.35      0.00    569.35      0.00      0.00  0.000000
+ 48637      6.00    569.40      0.00    569.40      0.00      0.00  0.000000
+ Q =     -0.000 m3/s.
+
+ TIME: 0000 days, 00 hours, 18 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.00    569.35      0.00      0.00  0.000000
+  4693      0.23    569.35      0.00    569.35      0.00      0.00  0.000000
+ 48637      6.00    569.40      0.00    569.40      0.00      0.00  0.000000
+ Q =     -0.000 m3/s.
+
+ TIME: 0000 days, 00 hours, 24 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.00    569.35      0.00      0.00  0.000000
+  4693      0.23    569.35      0.00    569.35      0.00      0.00  0.000000
+ 48637      6.00    569.40      0.00    569.40      0.00      0.00  0.000000
+ Q =     -0.000 m3/s.
+
+ TIME: 0000 days, 00 hours, 30 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.00    569.35      0.00      0.00  0.000000
+  4693      0.23    569.35      0.00    569.35      0.00      0.00  0.000000
+ 48637      6.00    569.40      0.00    569.40      0.00      0.00  0.000000
+ Q =     -0.000 m3/s.
+
+ TIME: 0000 days, 00 hours, 36 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.00    569.35      0.00      0.00  0.000000
+  4693      0.23    569.35      0.00    569.35      0.00      0.00  0.000000
+ 48637      6.00    569.40      0.00    569.40      0.00      0.00  0.000000
+ Q =     -0.000 m3/s.
+
+ TIME: 0000 days, 00 hours, 42 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.00    569.35      0.00      0.00  0.000000
+  4693      0.23    569.35      0.00    569.36      0.00      0.00  0.000000
+ 48637      6.00    569.40      0.00    569.40      0.00      0.00  0.000000
+ Q =     -0.000 m3/s.
+
+ TIME: 0000 days, 00 hours, 48 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.06    569.41      0.01      0.01  0.000000
+  4693      0.23    569.35      0.05    569.41      0.01      0.01  0.000000
+ 48637      6.00    569.40      0.01    569.41      0.06      0.18  0.000000
+ Q =     -0.002 m3/s.
+
+ TIME: 0000 days, 00 hours, 54 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.13    569.48      0.02      0.02  0.000000
+  4693      0.23    569.35      0.13    569.48      0.02      0.01  0.000000
+ 48637      6.00    569.40      0.08    569.48      0.04      0.05  0.000000
+ Q =     -0.017 m3/s.
+
+ TIME: 0000 days, 01 hours, 00 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.41    569.75      0.16      0.08  0.000000
+  4693      0.23    569.35      0.40    569.75      0.18      0.09  0.000000
+ 48637      6.00    569.40      0.35    569.75      0.19      0.10  0.000000
+ Q =     -0.512 m3/s.
+
+ TIME: 0000 days, 01 hours, 06 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.60    569.95      0.32      0.13  0.000000
+  4693      0.23    569.35      0.58    569.94      0.35      0.15  0.000000
+ 48637      6.00    569.40      0.54    569.95      0.35      0.15  0.000000
+ Q =     -1.520 m3/s.
+
+ TIME: 0000 days, 01 hours, 12 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.73    570.08      0.45      0.17  0.000000
+  4693      0.23    569.35      0.71    570.07      0.50      0.19  0.000000
+ 48637      6.00    569.40      0.68    570.08      0.48      0.18  0.000000
+ Q =     -2.628 m3/s.
+
+ TIME: 0000 days, 01 hours, 18 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.81    570.16      0.53      0.19  0.000000
+  4693      0.23    569.35      0.79    570.15      0.60      0.22  0.000000
+ 48637      6.00    569.40      0.76    570.16      0.55      0.20  0.000000
+ Q =     -3.464 m3/s.
+
+ TIME: 0000 days, 01 hours, 24 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.83    570.18      0.54      0.19  0.000000
+  4693      0.23    569.35      0.81    570.17      0.61      0.22  0.000000
+ 48637      6.00    569.40      0.79    570.19      0.56      0.20  0.000000
+ Q =     -3.637 m3/s.
+
+ TIME: 0000 days, 01 hours, 30 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.84    570.19      0.54      0.19  0.000000
+  4693      0.23    569.35      0.82    570.17      0.61      0.22  0.000000
+ 48637      6.00    569.40      0.79    570.19      0.56      0.20  0.000000
+ Q =     -3.643 m3/s.
+
+ TIME: 0000 days, 01 hours, 36 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.84    570.19      0.54      0.19  0.000000
+  4693      0.23    569.35      0.82    570.18      0.61      0.21  0.000000
+ 48637      6.00    569.40      0.80    570.20      0.56      0.20  0.000000
+ Q =     -3.663 m3/s.
+
+ TIME: 0000 days, 01 hours, 42 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.82    570.17      0.51      0.18  0.000000
+  4693      0.23    569.35      0.80    570.16      0.57      0.20  0.000000
+ 48637      6.00    569.40      0.77    570.17      0.53      0.19  0.000000
+ Q =     -3.355 m3/s.
+
+ TIME: 0000 days, 01 hours, 48 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.79    570.14      0.46      0.17  0.000000
+  4693      0.23    569.35      0.77    570.13      0.52      0.19  0.000000
+ 48637      6.00    569.40      0.74    570.14      0.48      0.18  0.000000
+ Q =     -2.924 m3/s.
+
+ TIME: 0000 days, 01 hours, 54 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.75    570.10      0.41      0.15  0.000000
+  4693      0.23    569.35      0.74    570.09      0.46      0.17  0.000000
+ 48637      6.00    569.40      0.70    570.10      0.44      0.17  0.000000
+ Q =     -2.508 m3/s.
+
+ TIME: 0000 days, 02 hours, 00 min.,00 secs.
+
+
+ CROSS SECTION NO.:   1 CROSS SECTION ID: outlet
+
+ (     720884.09,     1164677.38), (     720885.19,     1164669.94)
+ ELEM    STATION    BEDEL     DEPTH     WSEL     VELOCITY  FROUDE     QS
+           (m)       (m)       (m)       (m)       (m/s)           (m2/s)
+ 38188      0.00    569.35      0.73    570.07      0.37      0.14  0.000000
+  4693      0.23    569.35      0.71    570.07      0.41      0.16  0.000000
+ 48637      6.00    569.40      0.67    570.08      0.39      0.15  0.000000
+ Q =     -2.161 m3/s.
+
